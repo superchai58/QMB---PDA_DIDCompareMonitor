@@ -1,0 +1,51 @@
+E:\QMB\DIDCompareMonitor\DIDCompareMonitor\bin\Debug\DIDCompareMonitor.exe.config
+E:\QMB\DIDCompareMonitor\DIDCompareMonitor\bin\Debug\DIDCompareMonitor.exe
+E:\QMB\DIDCompareMonitor\DIDCompareMonitor\bin\Debug\DIDCompareMonitor.pdb
+E:\QMB\DIDCompareMonitor\DIDCompareMonitor\bin\Debug\QMSSDK.dll
+E:\QMB\DIDCompareMonitor\DIDCompareMonitor\bin\Debug\QuantaSDK.DB.dll
+E:\QMB\DIDCompareMonitor\DIDCompareMonitor\bin\Debug\stdole.dll
+E:\QMB\DIDCompareMonitor\DIDCompareMonitor\obj\Debug\DIDCompareMonitor.MainWindow.resources
+E:\QMB\DIDCompareMonitor\DIDCompareMonitor\obj\Debug\DIDCompareMonitor.Properties.Resources.resources
+E:\QMB\DIDCompareMonitor\DIDCompareMonitor\obj\Debug\DIDCompareMonitor.csproj.GenerateResource.Cache
+E:\QMB\DIDCompareMonitor\DIDCompareMonitor\obj\Debug\DIDCompareMonitor.exe
+E:\QMB\DIDCompareMonitor\DIDCompareMonitor\obj\Debug\DIDCompareMonitor.pdb
+\\10.94.1.95\smt\NB6\SourceCode\DIDCompareMonitor\DIDCompareMonitor\bin\Debug\DIDCompareMonitor.exe.config
+\\10.94.1.95\smt\NB6\SourceCode\DIDCompareMonitor\DIDCompareMonitor\obj\Debug\DIDCompareMonitor.exe
+\\10.94.1.95\smt\NB6\SourceCode\DIDCompareMonitor\DIDCompareMonitor\obj\Debug\DIDCompareMonitor.pdb
+D:\CHAI\Program\F6\DIDCompareMonitor\DIDCompareMonitor\bin\Debug\DIDCompareMonitor.exe.config
+D:\CHAI\Program\F6\DIDCompareMonitor\DIDCompareMonitor\obj\Debug\DIDCompareMonitor.exe
+D:\CHAI\Program\F6\DIDCompareMonitor\DIDCompareMonitor\obj\Debug\DIDCompareMonitor.pdb
+D:\CHAI\Program\F6\PDA_DIDCompareMonitor\DIDCompareMonitor\bin\Debug\DIDCompareMonitor.exe.config
+D:\CHAI\Program\F6\PDA_DIDCompareMonitor\DIDCompareMonitor\obj\Debug\DIDCompareMonitor.exe
+D:\CHAI\Program\F6\PDA_DIDCompareMonitor\DIDCompareMonitor\obj\Debug\DIDCompareMonitor.pdb
+D:\CHAI\Program\F6\PDA_DIDCompareMonitor\DIDCompareMonitor\bin\Debug\DIDCompareMonitor.exe
+D:\CHAI\Program\F6\PDA_DIDCompareMonitor\DIDCompareMonitor\bin\Debug\DIDCompareMonitor.pdb
+D:\CHAI\Program\F6\PDA_DIDCompareMonitor\DIDCompareMonitor\bin\Debug\QMSSDK.dll
+D:\CHAI\Program\F6\PDA_DIDCompareMonitor\DIDCompareMonitor\bin\Debug\QuantaSDK.DB.dll
+D:\CHAI\Program\F6\PDA_DIDCompareMonitor\DIDCompareMonitor\obj\Debug\DIDCompareMonitor.MainWindow.resources
+D:\CHAI\Program\F6\PDA_DIDCompareMonitor\DIDCompareMonitor\obj\Debug\DIDCompareMonitor.Properties.Resources.resources
+D:\CHAI\Program\F6\PDA_DIDCompareMonitor\DIDCompareMonitor\obj\Debug\DIDCompareMonitor.csproj.GenerateResource.Cache
+D:\CHAI\Program\F6\PDA_DIDCompareMonitor(VS2015)\DIDCompareMonitor\bin\Debug\DIDCompareMonitor.exe.config
+D:\CHAI\Program\F6\PDA_DIDCompareMonitor(VS2015)\DIDCompareMonitor\obj\Debug\DIDCompareMonitor.exe
+D:\CHAI\Program\F6\PDA_DIDCompareMonitor(VS2015)\DIDCompareMonitor\obj\Debug\DIDCompareMonitor.pdb
+D:\CHAI\Program\F6\PDA_DIDCompareMonitor(VS2015)\DIDCompareMonitor\obj\Debug\DIDCompareMonitor.MainWindow.resources
+D:\CHAI\Program\F6\PDA_DIDCompareMonitor(VS2015)\DIDCompareMonitor\obj\Debug\DIDCompareMonitor.Properties.Resources.resources
+D:\CHAI\Program\F6\PDA_DIDCompareMonitor(VS2015)\DIDCompareMonitor\obj\Debug\DIDCompareMonitor.csproj.GenerateResource.Cache
+D:\CHAI\Program\F6\PDA_DIDCompareMonitor(VS2015)\DIDCompareMonitor\bin\Debug\DIDCompareMonitor.exe
+D:\CHAI\Program\F6\PDA_DIDCompareMonitor(VS2015)\DIDCompareMonitor\bin\Debug\DIDCompareMonitor.pdb
+D:\CHAI\Program\F6\PDA_DIDCompareMonitor(VS2015)\DIDCompareMonitor\bin\Debug\QMSSDK.dll
+D:\CHAI\Program\F6\PDA_DIDCompareMonitor(VS2015)\DIDCompareMonitor\bin\Debug\QuantaSDK.DB.dll
+D:\CHAI\Program\F6\PDA_DIDCompareMonitor\DIDCompareMonitor\DIDCompareMonitor\bin\Debug\DIDCompareMonitor.exe.config
+D:\CHAI\Program\F6\PDA_DIDCompareMonitor\DIDCompareMonitor\DIDCompareMonitor\obj\Debug\DIDCompareMonitor.exe
+D:\CHAI\Program\F6\PDA_DIDCompareMonitor\DIDCompareMonitor\DIDCompareMonitor\obj\Debug\DIDCompareMonitor.pdb
+D:\CHAI\Program\New Develop\PDA_DIDCompareMonitor\DIDCompareMonitor\DIDCompareMonitor\bin\Debug\DIDCompareMonitor.exe.config
+D:\CHAI\Program\New Develop\PDA_DIDCompareMonitor\DIDCompareMonitor\DIDCompareMonitor\obj\Debug\DIDCompareMonitor.exe
+D:\CHAI\Program\New Develop\PDA_DIDCompareMonitor\DIDCompareMonitor\DIDCompareMonitor\obj\Debug\DIDCompareMonitor.pdb
+D:\CHAI\Program\New Develop\PDA_DIDCompareMonitor\DIDCompareMonitor\DIDCompareMonitor\bin\Debug\DIDCompareMonitor.exe
+D:\CHAI\Program\New Develop\PDA_DIDCompareMonitor\DIDCompareMonitor\DIDCompareMonitor\bin\Debug\DIDCompareMonitor.pdb
+D:\CHAI\Program\New Develop\PDA_DIDCompareMonitor\DIDCompareMonitor\DIDCompareMonitor\bin\Debug\QMSSDK.dll
+D:\CHAI\Program\New Develop\PDA_DIDCompareMonitor\DIDCompareMonitor\DIDCompareMonitor\bin\Debug\QuantaSDK.DB.dll
+D:\CHAI\Program\New Develop\PDA_DIDCompareMonitor\DIDCompareMonitor\DIDCompareMonitor\obj\Debug\DIDCompareMonitor.csprojResolveAssemblyReference.cache
+D:\CHAI\Program\New Develop\PDA_DIDCompareMonitor\DIDCompareMonitor\DIDCompareMonitor\obj\Debug\DIDCompareMonitor.MainWindow.resources
+D:\CHAI\Program\New Develop\PDA_DIDCompareMonitor\DIDCompareMonitor\DIDCompareMonitor\obj\Debug\DIDCompareMonitor.Properties.Resources.resources
+D:\CHAI\Program\New Develop\PDA_DIDCompareMonitor\DIDCompareMonitor\DIDCompareMonitor\obj\Debug\DIDCompareMonitor.csproj.GenerateResource.Cache
